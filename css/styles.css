@@ -1,0 +1,51 @@
+.container{
+    display: grid;
+    grid-template-columns: 20% 80%;
+    grid-template-rows: 20% 80%;
+}
+
+.side-bar{
+    background-color:rgb(25, 146, 212);
+    grid-column: 1/2;
+    grid-row: 1/end;
+    
+    
+}
+
+.nav-bar{
+    background-color: blanchedalmond;
+
+}
+
+.main-box{
+    background-color:   rgb(226, 232, 240);
+    grid-column: 2/end;
+    grid-row:2/end;
+}
+.box{
+    display: flex;
+    color: white;
+    margin-left: 1rem;
+    gap: 1rem;
+    
+}
+img{
+    color: white;
+}
+
+
+
+
+
+
+
+
+        /*sidebar-home
+        sidebar-settings
+        nav
+        notifications-box
+        user-box
+        buttons
+        project-box
+        announcements-box
+         trending-box*/
