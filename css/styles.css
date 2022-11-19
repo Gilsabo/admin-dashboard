@@ -3,18 +3,16 @@
     grid-template-columns: 20% 80%;
     grid-template-rows: 20% 80%;
 }
-
 .side-bar{
     background-color:rgb(25, 146, 212);
     grid-column: 1/2;
-    grid-row: 1/end;
-    
-    
+    grid-row: 1/end; 
+    display: grid;
+    grid-template-rows: 10% 30% 50%;
 }
 
 .nav-bar{
     background-color: blanchedalmond;
-
 }
 
 .main-box{
@@ -26,8 +24,7 @@
     display: flex;
     color: white;
     margin-left: 1rem;
-    gap: 1rem;
-    
+    gap: 1rem; 
 }
 img{
     color: white;
