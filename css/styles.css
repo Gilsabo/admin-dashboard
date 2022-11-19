@@ -13,6 +13,9 @@
 
 .nav-bar{
     background-color: blanchedalmond;
+    display: grid;
+    grid-template-columns: 70% 30%;
+    grid-template-rows: 50%;
 }
 
 .main-box{
@@ -29,6 +32,8 @@
 img{
     color: white;
 }
+
+
 
 
 
