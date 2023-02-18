@@ -1,6 +1,6 @@
 
 # Project Title
-Landing Page - Twitter Layout
+Admin-dashboard - Twitter Layout
 
 ## Description
 This is a responsive landing page created using HTML, CSS, and JavaScript. The page has a layout similar to Twitter's homepage, and it utilizes layout grid and flexbox for its responsive design. Feel free to check out the result [my-project](https://gilsabo.github.io/admin-dashboard/)
