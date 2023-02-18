@@ -10,7 +10,6 @@ This is a responsive landing page created using HTML, CSS, and JavaScript. The p
 - CSS
 - JavaScript
 ## Features
-Responsive design using layout grid and flexbox
-Navigation bar with drop-down menu
-Sign-up form with validation
-Interactive buttons and links
+- Responsive design using layout grid and flexbox
+- Navigation bar
+- Interactive buttons and links (to be done)
